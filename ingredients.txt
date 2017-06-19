@@ -2,8 +2,5 @@
 * 1 lime
 * 2 tsp salt
 * 1 onjon
-<<<<<<< HEAD
 * kebab
-=======
 * 1 ts fish oil
->>>>>>> experiment
